@@ -17,8 +17,11 @@ Pause Bilibili videos when the browser window loses focus, and resume playback w
    - [Tampermonkey](https://www.tampermonkey.net/)
    - [Violentmonkey](https://violentmonkey.github.io/)
 2. Open the install URL:
-   - [bilibili-focus-play-pause.user.js](https://raw.githubusercontent.com/mxyhi/bilibili-focus-play-pause/main/bilibili-focus-play-pause.user.js)
+   - [Greasy Fork script page](https://greasyfork.org/zh-CN/scripts/577543-bilibili-%E7%84%A6%E7%82%B9%E6%92%AD%E6%94%BE%E6%9A%82%E5%81%9C)
+   - [GitHub raw install](https://raw.githubusercontent.com/mxyhi/bilibili-focus-play-pause/main/bilibili-focus-play-pause.user.js)
 3. Confirm installation in the userscript manager.
+
+The Greasy Fork version is imported from the GitHub `main` branch and uses automatic sync.
 
 ## Supported Pages
 

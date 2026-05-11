@@ -17,8 +17,11 @@
    - [Tampermonkey](https://www.tampermonkey.net/)
    - [Violentmonkey](https://violentmonkey.github.io/)
 2. 打开脚本安装地址：
-   - [bilibili-focus-play-pause.user.js](https://raw.githubusercontent.com/mxyhi/bilibili-focus-play-pause/main/bilibili-focus-play-pause.user.js)
+   - [Greasy Fork 脚本页](https://greasyfork.org/zh-CN/scripts/577543-bilibili-%E7%84%A6%E7%82%B9%E6%92%AD%E6%94%BE%E6%9A%82%E5%81%9C)
+   - [GitHub raw 直装](https://raw.githubusercontent.com/mxyhi/bilibili-focus-play-pause/main/bilibili-focus-play-pause.user.js)
 3. 在管理器中确认安装。
+
+Greasy Fork 版本从 GitHub `main` 分支导入，并开启自动同步。
 
 ## 支持页面
 
