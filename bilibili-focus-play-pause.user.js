@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name         Bilibili Focus Play Pause
-// @name:zh-CN   Bilibili 焦点播放暂停
+// @name         Bilibili 焦点播放暂停
+// @name:en      Bilibili Focus Play Pause
 // @namespace    https://github.com/mxyhi/bilibili-focus-play-pause
 // @version      0.1.0
-// @description  Pause Bilibili video when the browser window loses focus, and resume it when focus returns.
-// @description:zh-CN 浏览器窗口失焦时暂停 Bilibili 视频，重新聚焦时恢复播放。
+// @description  浏览器窗口失焦时暂停 Bilibili 视频，重新聚焦时恢复播放。
+// @description:en Pause Bilibili video when the browser window loses focus, and resume it when focus returns.
 // @author       mxyhi
 // @license      MIT
 // @match        https://www.bilibili.com/video/*
